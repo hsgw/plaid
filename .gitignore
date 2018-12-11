@@ -1,0 +1,14 @@
+*.bak
+pcb/plaid.step
+*.wrl
+*.ai
+pcb/plaid-cache.lib
+pcb/dxf/
+pcb/dxf_2/
+pcb/gerber/
+pcb/gerber_bottom/
+pcb/plaid.xml
+*.kicad_pcb-bak
+pcb/plaid.csv
+pcb/gerver_plaid.zip
+pcb/gerber_plaid_bottom.zip
