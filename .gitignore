@@ -12,3 +12,7 @@ pcb/plaid.xml
 pcb/plaid.csv
 pcb/gerver_plaid.zip
 pcb/gerber_plaid_bottom.zip
+pcb/svg/
+pcb/past_gerber/
+pcb/plaid_nowire.kicad_pcb
+pcb/説明書/
