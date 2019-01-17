@@ -67,7 +67,7 @@ You should install `libusbK` driver, use [zadig](http://zadig.akeo.ie/).
 
 ## firmware
 The firmware is not include official QMK repository.   
-
 https://github.com/hsgw/qmk_firmware/tree/plaid
 
+**Enter flash mode** and
 ```make plaid:default:program```
