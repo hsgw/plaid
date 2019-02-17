@@ -28,7 +28,7 @@ Rev.AlphaのPCBにはいくつか失敗があります。
 |D1-48|48|汎用ダイオード|
 |D49,D50|2|ツェナーダイオード 3.6V|
 |F1|1|ポリスイッチ 100mA|
-|J1|1|USB miniBコネクタ|
+|J1|1|USB miniBコネクタ Omron XM7D-0512 |
 |J2|1|2x3 ピンヘッダー|
 |LED1|1|3mm LED 赤|
 |LED2|1|3mm LED 緑|

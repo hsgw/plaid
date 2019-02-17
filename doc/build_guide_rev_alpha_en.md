@@ -23,7 +23,7 @@ If it has problem, please contact urkwtky[at]gmail.com.
 |D1-48|48|diode|
 |D49,D50|2|zener diode 3.6V|
 |F1|1|polyfuse 100mA|
-|J1|1|USB miniB connector|
+|J1|1|USB miniB connector Omron XM7D-0512 or equivalent|
 |J2|1|2x3 pin header|
 |LED1|1|3mm LED red|
 |LED2|1|3mm LED green|
