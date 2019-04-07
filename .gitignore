@@ -24,3 +24,5 @@ pcb/plate.dwg
 *.csv#
 *.ini
 *.net
+pcb/plaid_plate.pro
+pcb/plaid_plate.kicad_pcb
