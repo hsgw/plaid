@@ -16,3 +16,11 @@ pcb/svg/
 pcb/past_gerber/
 pcb/plaid_nowire.kicad_pcb
 pcb/説明書/
+docsrc/
+doc/img/raw/
+pcb/plate_and_cover.dwg
+pcb/plate.dwg
+*.cmp
+*.csv#
+*.ini
+*.net
