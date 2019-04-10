@@ -16,8 +16,8 @@ You can use zadig and install ```libusbK```.
 
 ## Enter bootloader mode
 1. Plug into USB cable
-2. Push and hold ```BOOT``` SW
-3. Push and hold ```RESET``` SW
+2. Push and hold ```RESET``` SW
+3. Push and hold ```BOOT``` SW
 4. Release ```RESET``` SW
 5. Release ```BOOT``` SW
 

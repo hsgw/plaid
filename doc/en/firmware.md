@@ -29,4 +29,4 @@ You can use any wire and connect switch pads on pcb.
 Send PR!
 
 ## NEXT
-[Solder switches and complete](./case.md)
+[Solder switches and complete](./complete.md)
