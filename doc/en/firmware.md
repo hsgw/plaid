@@ -18,7 +18,7 @@ After entering bootloader mode,
 make plaid:default:program
 ```
 
-### avr-gcc version
+#### avr-gcc version
 With avr-gcc 8.2.0, you may encounter an error similar to `ERROR: address 0x8002a7 out of range at line 920 of .build/plaid_default.hex`. To work around this on macOS, install an older version of avr-gcc with homebrew,
 ```
 brew uninstall avr-gcc
