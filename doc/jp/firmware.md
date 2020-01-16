@@ -17,7 +17,7 @@ make plaid:default
 #### ビルドしてPlaidへ書き込む
 Plaidをブートローダモードにしてから
 ```
-make plaid:default:program
+make plaid:default:flash
 ```
 
 ## ジャンパー線でテスト
