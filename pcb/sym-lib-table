@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name plaid)(type Legacy)(uri ${KIPRJMOD}/plaid.lib)(options "")(descr ""))
+)
