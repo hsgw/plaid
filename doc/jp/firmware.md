@@ -1,7 +1,5 @@
 # ファームウェアについて
 
-#### QMK Toolboxからファームウェアを書き込むことは出来ません
-
 ## QMK Firmwareのセットアップ
 - https://github.com/qmk/qmk_firmware
 - https://docs.qmk.fm/#/newbs_getting_started
