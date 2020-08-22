@@ -1,7 +1,5 @@
 # Firmware
 
-### Can't burn firmware with QMK Toolbox
-
 ## Setup QMK Firmware
 - https://github.com/qmk/qmk_firmware
 - https://docs.qmk.fm/#/newbs_getting_started
