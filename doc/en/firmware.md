@@ -11,13 +11,13 @@ In your qmk directory,
 
 #### Just building firmware
 ```
-make plaid:default
+make dm9records/plaid:default
 ```
 
 #### Build and burn to plaid
 After entering bootloader mode,
 ```
-make plaid:default:flash
+make dm9records/plaid:default:flash
 ```
 
 #### avr-gcc version
@@ -27,7 +27,7 @@ brew uninstall avr-gcc
 brew install avr-gcc@7
 brew link --force avr-gcc@7
 ```
-And then re-run `make plaid:default:flash`.
+And then re-run `make dm9records/plaid:default:flash`.
 
 ## Test with wire
 When you burn default keymap, test without soldering switches.   
