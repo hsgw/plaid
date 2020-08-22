@@ -11,13 +11,13 @@
 
 #### ファームウェアのビルドのみ
 ```
-make plaid:default
+make dm9records/plaid:default
 ```
 
 #### ビルドしてPlaidへ書き込む
 Plaidをブートローダモードにしてから
 ```
-make plaid:default:flash
+make dm9records/plaid:default:flash
 ```
 
 ## ジャンパー線でテスト
