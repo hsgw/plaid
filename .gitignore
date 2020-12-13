@@ -9,6 +9,7 @@ pcb/gerber/
 pcb/gerber_bottom/
 pcb/plaid.xml
 *.kicad_pcb-bak
+pcb/plaid.sch-bak
 pcb/plaid.csv
 pcb/gerver_plaid.zip
 pcb/gerber_plaid_bottom.zip
